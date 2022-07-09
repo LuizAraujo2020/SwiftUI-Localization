@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  SwiftUILocalization
+
+  Created by Luiz Araujo on 09/07/22.
+  
+*/
+
+"hello" = "Hello, world!";
+
+"welcome %@" = "Welcome %@";
+
+"welcome_Translized" = "Welcome to __Translized__";
+
